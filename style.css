@@ -63,7 +63,7 @@ body {
 
 .do p {
     text-align: center;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 
@@ -71,8 +71,8 @@ body {
 
 
 
-.flexible-container {
-    display: flex;
+.amount {
+    display: inline-block;
 
 }
 
@@ -138,14 +138,95 @@ body {
 .two hr {
     border: none;
     outline: none;
-    background-color:gray;
-    height:5px;
-    margin:auto;
+    background-color: gray;
+    height: 5px;
+    margin: auto;
     margin-top: 50px;
-    width:60%;
+    width: 60%;
 }
-.other h5
-{
-  text-align: center;  
-  margin-bottom: -50px;
+
+.other h5 {
+    text-align: center;
+    margin-bottom: -50px;
+}
+
+h2 {
+    margin-left: 20px;
+
+}
+
+.food {
+    background-color: lightgrey;
+    
+}
+
+.food img {
+
+
+    margin-top: 70px;
+    margin-left: 20px;
+}
+
+.food p {
+
+    text-align: center;
+
+    margin: bottom 30px;
+    padding: 0 18px;
+
+
+}
+
+.shelter {
+    background-color: pink;
+    display: inline-block;
+
+}
+
+.shelter p {
+
+    text-align: center;
+
+    margin: bottom 30px;
+    padding: 0 18px;
+
+
+}
+
+.shelter img {
+
+
+    margin-top: 70px;
+    margin-left: 20px;
+
+}
+
+.education {
+    background-color: cornsilk;
+   
+
+}
+
+.education p {
+
+    text-align: center;
+
+    margin: bottom 30px;
+    padding: 0 18px;
+
+
+}
+
+.education img {
+
+    width: 20%;
+    margin-top: 60px;
+    margin-left: 20px;
+
+}
+
+.section {
+    width: 40%;
+   display: inline-block;
+
 }
