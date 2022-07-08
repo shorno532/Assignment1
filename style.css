@@ -158,10 +158,12 @@ h2 {
     margin-left: 20px;
 
 }
-.three h3{
+
+.three h3 {
     text-align: center;
 }
-.three p{
+
+.three p {
     text-align: center;
     padding: 0 92px;
 
@@ -212,7 +214,7 @@ h2 {
 
 .education {
     background-color: cornsilk;
-   
+
 
 }
 
@@ -234,29 +236,31 @@ h2 {
 
 }
 
-.food{
+.food {
     width: 30%;
-   display: inline-block;
-  
+    display: inline-block;
+
     background-color: lightgrey;
-    margin:15px 12px;
-    
+    margin: 15px 12px;
+
 }
-.shelter{
+
+.shelter {
     width: 30%;
-   display: inline-block;
-  
+    display: inline-block;
+
     background-color: pink;
-    margin:15px 12px;
-    
+    margin: 15px 12px;
+
 }
-.education{
+
+.education {
     width: 30%;
-   display: inline-block;
-  
+    display: inline-block;
+
     background-color: lightblue;
-    margin:15px 12px;
-    
+    margin: 15px 12px;
+
 }
 
 .half-width {
@@ -264,26 +268,27 @@ h2 {
     width: 50%;
     padding-left: 15%;
     margin-top: 70px;
-  
+
 }
 
 .half-width img {
     width: 80%;
-   
+
 }
+
 .flexible-container {
     display: flex;
 }
 
-.four h1{
+.four h1 {
     text-align: center;
     margin-top: 7%;
 
 }
-.half-width p
-{
-margin-bottom:30px ;
-padding: 0 18px;
+
+.half-width p {
+    margin-bottom: 30px;
+    padding: 0 18px;
 }
 
 .button {
@@ -294,3 +299,20 @@ padding: 0 18px;
     padding: 10px 40px;
     border-radius: 5px
 }
+
+footer {
+    position: relative;
+    padding: 0px 0 50px;
+    text-align: center;
+    background-color: black;
+
+    width: 100%;
+    color: #fff;
+   
+}
+span{
+    color: orangered;
+    
+}
+h5
+{font-style: italic;}
